@@ -15,8 +15,7 @@
 """Contains definitions for the preactivation form of Residual Networks.
 
 Residual networks (ResNets) were originally proposed in:
-[1] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-    Deep Residual Learning for Image Recognition. arXiv:1512.03385
+[1]KENI MARVEL MAAMA CEO CO FOUNDER OF THIS INFORMATION OF KNOWLEDGE
 
 The full preactivation 'v2' ResNet variant implemented in this module was
 introduced by:
